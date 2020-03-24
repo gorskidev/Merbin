@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Merbin/precache-manifest.704562cc9735f782c61d78760a508f4f.js"
+  "/Merbin/precache-manifest.9bb7b474e594be03369d1cd03f5561be.js"
 );
 
 self.addEventListener('message', (event) => {

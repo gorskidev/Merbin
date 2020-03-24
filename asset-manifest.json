@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Merbin/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Merbin/static/js/main.a5a9e00c.chunk.js",
-    "main.js.map": "/Merbin/static/js/main.a5a9e00c.chunk.js.map",
+    "main.js": "/Merbin/static/js/main.825eb643.chunk.js",
+    "main.js.map": "/Merbin/static/js/main.825eb643.chunk.js.map",
     "runtime-main.js": "/Merbin/static/js/runtime-main.217ec84d.js",
     "runtime-main.js.map": "/Merbin/static/js/runtime-main.217ec84d.js.map",
     "static/js/2.94eef0b0.chunk.js": "/Merbin/static/js/2.94eef0b0.chunk.js",
     "static/js/2.94eef0b0.chunk.js.map": "/Merbin/static/js/2.94eef0b0.chunk.js.map",
     "index.html": "/Merbin/index.html",
-    "precache-manifest.704562cc9735f782c61d78760a508f4f.js": "/Merbin/precache-manifest.704562cc9735f782c61d78760a508f4f.js",
+    "precache-manifest.9bb7b474e594be03369d1cd03f5561be.js": "/Merbin/precache-manifest.9bb7b474e594be03369d1cd03f5561be.js",
     "service-worker.js": "/Merbin/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Merbin/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.94eef0b0.chunk.js.LICENSE.txt": "/Merbin/static/js/2.94eef0b0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.217ec84d.js",
     "static/js/2.94eef0b0.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a5a9e00c.chunk.js"
+    "static/js/main.825eb643.chunk.js"
   ]
 }
