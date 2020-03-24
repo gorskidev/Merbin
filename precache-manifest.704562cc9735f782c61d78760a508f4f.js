@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "beeeb42f8ddd26d2114ff477238cfcc3",
+    "revision": "3cb8526d374d5e416edd618b46bc72e9",
     "url": "/Merbin/index.html"
   },
   {
-    "revision": "cba2737d80825cec801f",
+    "revision": "72fdab80cd4366606016",
     "url": "/Merbin/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Merbin/static/js/2.94eef0b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cba2737d80825cec801f",
-    "url": "/Merbin/static/js/main.377d0770.chunk.js"
+    "revision": "72fdab80cd4366606016",
+    "url": "/Merbin/static/js/main.a5a9e00c.chunk.js"
   },
   {
     "revision": "99bf33ed320d787691bc",
